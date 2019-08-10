@@ -1,10 +1,10 @@
 {
-    "name": "Bharat Agarwal",
-    "title": "Full Stack Developer, Mobile Application Developer (iOS and Android) and Cyber Security Researcher",
-    "intro": "Some introduction of yours and it can be as much as large",
+    "name": "Ross",
+    "title": "nOOb",
+    "intro": "no need",
     "skills": [{
             "title": "Skill 1",
-            "rating": "90"
+            "rating": "01"
         },
         {
             "title": "Skill 2",
@@ -16,7 +16,7 @@
         }
     ],
     "contact": {
-        "location": "Chandigarh University",
+        "location": "Kharar",
         "phone": "xxxxxxxxxx",
         "email": "xxxxxx@xxxx.xxx"
     }
